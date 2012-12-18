@@ -1,0 +1,28 @@
+#main{
+
+}
+
+#banner{
+	position: relative;
+	margin:0px auto;
+	background-color: red;
+	
+	height:100px;
+	width:1024px;
+}
+#navbar{
+	position: relative;
+	margin:0px auto;		
+	background-color: blue;
+
+	height:30px;
+	width:1024px;
+}
+#content{
+	position: relative;
+	margin:0px auto;
+	background-color: yellow;
+
+	min-height: 500px;
+	width:1024px;
+}
